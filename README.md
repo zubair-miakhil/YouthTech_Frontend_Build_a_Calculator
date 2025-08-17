@@ -1,2 +1,1 @@
-# YouthTech_Frontend_Build_a_Calculator
-A functional Calculator Web App built with HTML, CSS, and JavaScript. Supports basic arithmetic operations (+, −, ×, ÷) with a clean and responsive UI. Includes button interactions, hover effects, and bonus keyboard input support for fast and smooth calculations.
+<img width="1680" height="817" alt="Screenshot 2025-08-18 at 1 14 36 AM" src="https://github.com/user-attachments/assets/38b72d24-a201-42b0-9685-10a34314807b" />
